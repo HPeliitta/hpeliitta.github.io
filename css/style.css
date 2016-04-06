@@ -588,10 +588,10 @@ Parallax
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #fff;
+    border: 2px solid #120c0c;
     border-radius: 50%;
     font-size: 40px;
-    color: #fff;
+    color: #BA2F2F;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
