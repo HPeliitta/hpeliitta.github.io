@@ -1,0 +1,20 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+*.class
+
+# Build and release
+bin/
+target/
+release.properties
+pom.xml.releaseBackup
+
+# Logs
+*.log
+
+# Java
+*.class
+*.jar
+
+.classpath
+.project
