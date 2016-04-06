@@ -207,10 +207,10 @@ a:focus {
 
 @keyframes shadowSpin{
   0%{
-    box-shadow: 10px -10px #39CCCC, -10px 10px #FFDC00;
+    box-shadow: 10px -10px #000000, -10px 10px #FFDC00;
   }
   25%{
-    box-shadow: 10px 10px #39CCCC, -10px -10px #FFDC00;
+    box-shadow: 10px 10px #000000, -10px -10px #FFDC00;
   }
   50%{
     box-shadow: -10px 10px #39CCCC, 10px -10px #FFDC00;
